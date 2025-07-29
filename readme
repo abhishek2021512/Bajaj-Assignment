@@ -3,3 +3,9 @@ To start this project follow these steps:-
 2. open this folder in VS Code
 3. then terminal write npm install
 4. then write npm start
+the API is hosted on Vercel. You can test the live endpoint using any API client.
+
+Method: POST
+
+URL: https://bajaj-assignment-theta.vercel.app/bfhl
+and the you can enter the data
